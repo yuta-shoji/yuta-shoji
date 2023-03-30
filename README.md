@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="410" alt="" align="right" />
+  <img src="https://github.com/yuta-shoji/yuta-shoji/raw/main/surf.jpeg" width="410" alt="hilux surf" align="right" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=yuta-shoji&color=orange)
