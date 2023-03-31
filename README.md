@@ -17,13 +17,13 @@
 - 👩 I have a beloved wife.
 - 📚 "Don't seek perfection, let's do it perfectly."
 
-##  My stack
-<p>Swift / JS / TS / Kotlin / Python / GO / HTML / CSS / SCSS</p>
-<p>SwiftUI / UIKit / Spring / SpringBoot / React / Django</p>
-<p>XP / Agile / Lean / TDD</p>
-
-
-##  GitHub Stats
+## GitHub Stats
 [![Yuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta-shoji&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-shoji&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuta-shoji&theme=github_dark)
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,kotlin,python,go,html,css,scss&theme=light)](https://skillicons.dev)
+### Framework or Env
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,azure,spring,react,django,nodejs,gradle,jest,firebase&theme=light)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,gitlab,postman,discord&theme=light)](https://skillicons.dev)
