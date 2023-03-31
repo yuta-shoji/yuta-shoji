@@ -1,19 +1,19 @@
-<p align="center">
-  <img src="https://github.com/yuta-shoji/yuta-shoji/raw/main/surf.jpeg" width="410" alt="hilux surf" align="right" />
-</p>
-
 ![](https://komarev.com/ghpvc/?username=yuta-shoji&color=orange)
 ![GitHub followers](https://img.shields.io/github/followers/yuta-shoji)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yuta-shoji/posts.svg)](http://qiita.com/yuta-shoji)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuta-shoji/contributions.svg)](http://qiita.com/yuta-shoji)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/yuta-shoji/followers.svg)](http://qiita.com/yuta-shoji)
 
+<p align="center">
+  <img src="https://github.com/yuta-shoji/yuta-shoji/raw/main/surf.jpeg" width="410" alt="hilux surf" align="right" />
+</p>
+
 # Hi👋 Software Geeky!!
 
 - 📱 Full stack Engineer
 - 🧑🏻‍💻 Working a mobility campany
 - 🚗 My beloved car is Hilix Surf
-- 🎤 I love singing Jpop, rap, lock, and other genres of music.
+- 🎤 I love singing Jpop, Rap, Rock, and other genres of music.
 - 👩 I have a beloved wife.
 - 📚 "Don't seek perfection, let's do it perfectly."
 
