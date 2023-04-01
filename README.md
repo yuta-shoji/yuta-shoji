@@ -17,13 +17,13 @@
 - 👩 I have a beloved wife.
 - 📚 "Don't seek perfection, let's do it perfectly."
 
-## GitHub Stats
-[![Yuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta-shoji&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-shoji&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,kotlin,python,go,html,css,scss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,kotlin,python,go,html,css,scss&theme=light&perline=5)](https://skillicons.dev)
 ### Framework or Env
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,azure,spring,react,django,nodejs,gradle,jest,firebase&theme=light)](https://skillicons.dev)
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,gitlab,postman,discord&theme=light)](https://skillicons.dev)
+
+## GitHub Stats
+[![Yuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta-shoji&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-shoji&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
