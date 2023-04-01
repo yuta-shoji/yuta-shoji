@@ -13,7 +13,7 @@
 - 📱 Full stack Engineer
 - 🧑🏻‍💻 Working a mobility campany
 - 🚗 My beloved car is Hilix Surf
-- 🎤 I love singing Jpop, Rap, Rock, and other genres of music.
+- 🎤 I love to sing songs of various genres.
 - 👩 I have a beloved wife.
 - 📚 "Don't seek perfection, let's do it perfectly."
 
