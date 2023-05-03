@@ -4,15 +4,13 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuta-shoji/contributions.svg)](http://qiita.com/yuta-shoji)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/yuta-shoji/followers.svg)](http://qiita.com/yuta-shoji)
 
-<p align="center">
-  <img src="https://github.com/yuta-shoji/yuta-shoji/raw/main/surf.jpeg" width="410" alt="hilux surf" align="right" />
-</p>
+<img src="https://github.com/yuta-shoji/yuta-shoji/raw/main/surf.jpeg" width="410" alt="hilux surf" align="right" />
 
 # Hi👋 Software Geeky!!
 
 - 📱 Full stack Engineer
 - 🧑🏻‍💻 Working a mobility campany
-- 🚗 My beloved car is Hilix Surf
+- 🚗 My beloved car is Hilux Surf
 - 🎤 I love to sing songs of various genres.
 - 👩 I have a beloved wife.
 - 📚 "Let's do it perfectly without seeking perfection."
