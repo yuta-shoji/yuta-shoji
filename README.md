@@ -15,7 +15,7 @@
 - 🚗 My beloved car is Hilix Surf
 - 🎤 I love to sing songs of various genres.
 - 👩 I have a beloved wife.
-- 📚 "Don't seek perfection, let's do it perfectly."
+- 📚 "Let's do it perfectly without seeking perfection."
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=swift,js,ts,kotlin,python,go,html,css,scss&theme=light&perline=5)](https://skillicons.dev)
