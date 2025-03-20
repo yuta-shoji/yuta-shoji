@@ -6,21 +6,19 @@
 
 <img src="https://github.com/yuta-shoji/yuta-shoji/raw/main/surf.jpeg" width="410" alt="hilux surf" align="right" />
 
-# Hi👋 Software Geeky!!
+# Hi there👋
 
-- 📱 Full stack Engineer
-- 🧑🏻‍💻 Working a mobility campany
-- 🚗 My beloved car is Hilux Surf
-- 🎤 I love to sing songs of various genres.
-- 👩 I have a beloved wife.
-- 📚 "Let's do it perfectly without seeking perfection."
+- 📱 Full-Stack Engineer
+- 🧑🏻‍💻 Working at a mobility company
+- 🚗 My beloved car is a Hilux Surf
+- 🎤 I love singing songs from various genres
+- 👩 I have a beloved wife
+- 📚 “Let’s do it perfectly without chasing perfection.”
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=swift,js,ts,kotlin,python,go,html,css,scss&theme=light&perline=5)](https://skillicons.dev)
-### Framework or Env
+### Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,azure,spring,react,django,nodejs,gradle,jest,firebase&theme=light)](https://skillicons.dev)
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,gitlab,postman,discord&theme=light)](https://skillicons.dev)
 
 ## GitHub Stats
 [![Yuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuta-shoji&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
